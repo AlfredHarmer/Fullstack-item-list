@@ -34,7 +34,8 @@ node index.js
 ```
 
 ## Frontend
-
+```bash
 cd Front-end
 npm install
 npm start
+```
